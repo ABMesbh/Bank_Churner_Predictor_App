@@ -1,4 +1,4 @@
-# Bank Churner Predictor APP
+# Bank Churner Predictor App
 
 This project contains two parts:
 
